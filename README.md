@@ -26,6 +26,10 @@ This project focuses on detecting brain tumors from MRI scans using Convolutiona
 
 ✅ **AlexNet + Adam** delivered the best results — suggesting it's well-suited for this binary classification task.
 
+### 🔬 Additional Experimentation
+
+We also experimented with a **VGG16-based transfer learning model**, but it underperformed compared to AlexNet on our dataset — possibly due to overfitting or lack of fine-tuning for binary classification. As a result, we excluded it from our final report.
+
 ---
 
 ## 🗃 Dataset
