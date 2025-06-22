@@ -50,6 +50,14 @@ Due to size constraints, the dataset is not uploaded to this repo. You can find 
 
 ---
 
+## ▶️ How to Run
+
+1. Upload the dataset to your Google Drive.
+2. Mount Google Drive in Colab.
+3. Run each block of code sequentially in the notebook.
+
+---
+
 ## 🔧 Switching Optimizers
 
 By default, the model uses the **Adam optimizer**, which gave us the best results.  
