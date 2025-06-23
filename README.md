@@ -76,7 +76,7 @@ model.compile('SGD', loss=tf.losses.BinaryCrossentropy(), metrics=['accuracy'])
 ## 🤝 Shoutouts
 
 - **Original CNN starter code**: [Nicknochnack](https://github.com/nicknochnack) — the backbone that helped me begin experimenting with CNNs.
-- **Team**: Huge thanks to **Anukeerthana** and **Archana** — this project was a true team effort. We worked together on everything from model development to dataset exploration and documentation. It was a great collaborative learning journey.
+- **Team**: Huge thanks to [Anukeerthana](https://www.linkedin.com/in/anukeerthana-soundarrajan-475699202/) and [Archana](https://www.linkedin.com/in/archana-b-758894248/) — this project was a true team effort. We worked together on everything from model development to dataset exploration and documentation. It was a great collaborative learning journey.
 
 ---
 
